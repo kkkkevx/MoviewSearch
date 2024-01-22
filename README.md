@@ -1,6 +1,7 @@
 # Project: MovieSearch
 I built a website that can search for movies you like.
 
+![pic1](https://github.com/kkkkevx/MoviewSearch/assets/108632304/d56cb3c3-5fc1-4c4d-aa39-a34ddbbe3dc3)
 
 # Getting Started with Create React App
 
